@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## 経歴要約
 
-You can use the [editor on GitHub](https://github.com/yu-mori/yu-mori.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+これまでは自社サービスを用いたPoCのためのプロトアプリ開発を行ってきました。主な使用言語はjavascriptです。数か月だけunityを使用したモバイルアプリの開発を行った経験もあります。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### これまでの経験
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+主にjavascriptを利用したモバイルアプリ開発のフロントエンド側を担当
 
 ```markdown
-Syntax highlighted code block
+1. モバイルアプリ開発（フロントエンド）
+    - javascript:4か月
 
-# Header 1
-## Header 2
-### Header 3
+2. MRアプリプロト開発
+    - unity(c#):4か月
 
-- Bulleted
-- List
+3. Webアプリプロト開発
+    - javascript+html:9か月
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+4. モバイルアプリ開発（バックエンド）
+    - javascript:３か月
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yu-mori/yu-mori.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+現在、unityの勉強中
